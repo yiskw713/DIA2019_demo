@@ -1,10 +1,10 @@
 # Demonstration of task-oriented function detection
 
-This reposiory is for demonstration of poster presentation in DIA2019, whose content is about "task-oriented function detection".
+This reposiory is for demonstration of poster presentation in DIA2019, whose content is about "task-oriented function detection".<br>
 In our proposed method, the network takes as input RGB images and task vectors which are one-hot encoded, 
-and outputs "task-oriented function" as below.
-Thanks to task vectors, the network can infer different ways to use for the same object.
-though networks in most existing works on affordance detection cannot.
+and outputs "task-oriented function" as below.<br>
+Thanks to task vectors, the network can infer different ways to use for the same object,
+though most existing works on affordance detection cannot.
 
 ![demo](demo.gif)
 
@@ -18,7 +18,7 @@ If you want to try my demo, you need the below packages:
 After installing, please run ` python app.py`.
 
 # References
-I referred to [this repository](https://github.com/dychi/dash-action-segmentation-demo)
+I referred to [this repository](https://github.com/dychi/dash-action-segmentation-demo).<br>
 If you get interested in making a demo, I strongly recommend that you visit it. 
 
 # Paper
