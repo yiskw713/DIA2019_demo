@@ -17,9 +17,12 @@ If you want to try my demo, you need the below packages:
 
 After installing, please run ` python app.py`.
 
-# References
+# Reference
 I referred to [this repository](https://github.com/dychi/dash-action-segmentation-demo).<br>
 If you get interested in making a demo, I strongly recommend that you visit it. 
 
 # Paper
 石川裕地, 石川晴也, 秋月秀一, 青木義満. 操作タスク入力に基づく物体の機能部推定. In DIA, 2019. 
+
+# Date
+Mar. 3, 2019
