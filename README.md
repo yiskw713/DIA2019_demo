@@ -5,7 +5,8 @@ In our proposed method, the network takes as input RGB images and task vectors w
 and outputs "task-oriented function" as below.<br>
 Thanks to task vectors, the network can infer different ways to use for the same object,
 though most existing works on affordance detection cannot.
-
+<br>
+<br>
 ![demo](demo.gif)
 
 # Requirements
